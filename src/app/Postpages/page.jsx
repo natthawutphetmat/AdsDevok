@@ -37,7 +37,7 @@ const embedUrl = `https://www.youtube.com/watch?v=GgzFZSj0VDs&t=52s`;
 
  
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.myads.dev/https://www.myads.dev/Postpages" />
+<meta property="og:url" content="https://www.myads.dev/Postpages" />
 <meta property="og:title" content="PostPage | รับจ้างยิงแอดทำโฆษณาออนไลน์ " />
 <meta property="og:description" content="PostPage | เนื้อหาความรู้ดีๆที่ทุกคนเข้าถึงได้ 
  รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ" />
@@ -45,7 +45,7 @@ const embedUrl = `https://www.youtube.com/watch?v=GgzFZSj0VDs&t=52s`;
 
  
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content="https://www.myads.dev/https://www.myads.dev/Postpages" />
+<meta property="twitter:url" content="https://www.myads.dev/Postpages" />
 <meta property="twitter:title" content="PostPage | รับจ้างยิงแอดทำโฆษณาออนไลน์ " />
 <meta property="twitter:description" content="PostPage | เนื้อหาความรู้ดีๆที่ทุกคนเข้าถึงได้ 
  รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ" />
