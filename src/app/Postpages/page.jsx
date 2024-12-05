@@ -28,6 +28,36 @@ let videoId = 'GgzFZSj0VDs&t';
  
 const embedUrl = `https://www.youtube.com/watch?v=GgzFZSj0VDs&t=52s`;
   return (
+    <>
+    <head>
+ 
+<title>PostPage | รับจ้างยิงแอดทำโฆษณาออนไลน์ </title>
+<meta name="title" content="PostPage | รับจ้างยิงแอดทำโฆษณาออนไลน์ " />
+<meta name="description" content="PostPage | เนื้อหาความรู้ดีๆที่ทุกคนเข้าถึงได้ รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ" />
+
+ 
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.myads.dev/https://www.myads.dev/Postpages" />
+<meta property="og:title" content="PostPage | รับจ้างยิงแอดทำโฆษณาออนไลน์ " />
+<meta property="og:description" content="PostPage | เนื้อหาความรู้ดีๆที่ทุกคนเข้าถึงได้ 
+ รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ" />
+<meta property="og:image" content="https://www.myads.dev/logo.png" />
+
+ 
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://www.myads.dev/https://www.myads.dev/Postpages" />
+<meta property="twitter:title" content="PostPage | รับจ้างยิงแอดทำโฆษณาออนไลน์ " />
+<meta property="twitter:description" content="PostPage | เนื้อหาความรู้ดีๆที่ทุกคนเข้าถึงได้ 
+ รับจ้างยิงแอดทำโฆษณาออนไลน์ รับทำโฆษณา Facebook Ads รับทำโฆษณา Google ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ" />
+<meta property="twitter:image" content="https://www.myads.dev/logo.png" />
+
+<meta name="robots" content="index" />
+<link rel="canonical" href="https://www.myads.dev" />
+
+
+ 
+    </head>
+  
     <div className="container   mx-auto">
       {posts.map((post) => (
         <> 
@@ -81,5 +111,7 @@ const embedUrl = `https://www.youtube.com/watch?v=GgzFZSj0VDs&t=52s`;
       ))}
        
     </div>
+
+    </>
   );
 }
